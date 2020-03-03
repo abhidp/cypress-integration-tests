@@ -7,6 +7,5 @@
   "responseTimeout": 10000,
   "trashAssetsBeforeRuns": true,
   "video": false,
-  "waitForAnimations": false,
   "chromeWebSecurity": true
 }
